@@ -30,7 +30,7 @@ To use it locally, you need to :
 **Rindra Josia**
 
 * Github: **[@gabrie-lhilarion](https://github.com/gabrie-lhilarion)**
-* Twitter: **[@rindrajosia](https://twitter.com/gabrielDeman)**
+* Twitter: **[@gabrie-lhilarion](https://twitter.com/gabrielDeman)**
 
 
 #  Contributing
